@@ -9,9 +9,7 @@ cd your-repo
 # 2. Install Dependencies
 Run the following command to install all necessary dependencies:
 
-npm install  
- OR  
-pip install -r requirements.txt  
+npm install   
 
 # 3. Set Up the Database
 Install PostgreSQL:
